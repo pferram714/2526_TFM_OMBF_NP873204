@@ -1,0 +1,53 @@
+{
+    "OUTPUT_FOLDER": "syntetic_data",
+
+    "CONFIGS" : [
+    {"label": "A",  "D": 0.05, "rho": 0.20,  "desc": "tumor pequeño y crecimiento lento"},
+    {"label": "B",  "D": 0.10, "rho": 0.50,  "desc": "tumor equilibrado, difusión y creciminento moderados"},
+    {"label": "C",  "D": 0.20, "rho": 0.30,  "desc": "Se expande mucho (rápida difusión) pero crece lentamente"},
+    {"label": "D",  "D": 0.08, "rho": 1.00,  "desc": "Crece rápidamente pero no se expande (difusión lenta)"}],
+
+
+
+    "NOISE_LEVELS" : [0.00, 0.01, 0.03, 0.05],
+
+    "SIM_PARAMS": {
+        "L": 10.0,
+        "T": 10.0,
+        "Nx": 200,
+        "Nt": 10000,
+        "u0_center": 5.0,
+        "u0_width": 0.5,
+        "u0_amplitude": 0.8,
+        "n_snapshots": 5
+    },
+
+    "PINN": {
+        "layers": [2, 64, 64, 64, 64, 1],
+        "n_epochs": 20000,
+        "lr": 0.001,
+        "n_col": 3000,
+        "n_obs": 200,
+        "n_bc": 200,
+        "w_data": 1.0,
+        "w_phys": 1.0,
+        "w_ic": 1.0,
+        "w_bc": 0.1,
+        "log_every": 1000,
+        "lr_decay_step": 5000,
+        "lr_decay_gamma": 0.5,
+        "D_init": 0.1,
+        "rho_init": 0.5,
+        "K": 1.0,
+        "x_scale": 10.0,
+        "t_scale": 10.0
+    },
+
+    "SIMULADOR": {
+        "T_sim": 90.0,
+        "Nt_sim": 80000,
+        "r_crit": 3.0,
+        "target_noise": ["noise00", "noise01", "noise03", "noise05"]
+    }
+    
+}

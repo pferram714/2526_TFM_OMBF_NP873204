@@ -1,0 +1,493 @@
+2026-06-18 22:35:21,249  INFO  =================================================================
+2026-06-18 22:35:21,249  INFO  PINN Fisher-Kolmogorov — Estimación de parámetros
+2026-06-18 22:35:21,251  INFO  Dispositivo: cpu
+2026-06-18 22:35:21,251  INFO  =================================================================
+2026-06-18 22:35:21,252  INFO  
+2026-06-18 22:35:21,252  INFO  ------------------------------------------------------------
+2026-06-18 22:35:21,252  INFO  Experimento: cfgA_noise00
+2026-06-18 22:35:30,203  INFO  [cfgA_noise00] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 22:35:30,203  INFO  [cfgA_noise00] D_true=0.0500  rho_true=0.2000
+2026-06-18 22:35:30,374  INFO  [cfgA_noise00] Época      1  loss=1.2565e-01  D=0.10010  rho=0.49950
+2026-06-18 22:36:35,520  INFO  [cfgA_noise00] Época   1000  loss=3.4971e-04  D=0.06707  rho=0.30906
+2026-06-18 22:37:12,927  INFO  [cfgA_noise00] Época   2000  loss=5.8052e-05  D=0.05486  rho=0.24261
+2026-06-18 22:38:00,869  INFO  [cfgA_noise00] Época   3000  loss=2.3027e-05  D=0.05016  rho=0.21251
+2026-06-18 22:38:49,023  INFO  [cfgA_noise00] Época   4000  loss=9.2972e-06  D=0.04842  rho=0.20112
+2026-06-18 22:39:30,579  INFO  [cfgA_noise00] Época   5000  loss=4.2987e-06  D=0.04834  rho=0.19877
+2026-06-18 22:40:03,878  INFO  [cfgA_noise00] Época   6000  loss=3.0753e-06  D=0.04862  rho=0.19903
+2026-06-18 22:40:36,910  INFO  [cfgA_noise00] Época   7000  loss=4.6224e-05  D=0.04894  rho=0.19930
+2026-06-18 22:41:07,186  INFO  [cfgA_noise00] Época   8000  loss=5.5845e-06  D=0.04921  rho=0.19951
+2026-06-18 22:41:37,420  INFO  [cfgA_noise00] Época   9000  loss=1.1841e-06  D=0.04939  rho=0.19963
+2026-06-18 22:42:06,809  INFO  [cfgA_noise00] Época  10000  loss=3.5095e-05  D=0.04954  rho=0.19977
+2026-06-18 22:42:37,313  INFO  [cfgA_noise00] Época  11000  loss=7.7140e-07  D=0.04961  rho=0.19986
+2026-06-18 22:43:06,798  INFO  [cfgA_noise00] Época  12000  loss=1.0355e-05  D=0.04969  rho=0.19991
+2026-06-18 22:43:37,532  INFO  [cfgA_noise00] Época  13000  loss=5.3966e-07  D=0.04975  rho=0.19995
+2026-06-18 22:44:07,543  INFO  [cfgA_noise00] Época  14000  loss=2.4787e-06  D=0.04979  rho=0.19998
+2026-06-18 22:44:37,725  INFO  [cfgA_noise00] Época  15000  loss=5.2101e-07  D=0.04983  rho=0.20000
+2026-06-18 22:45:12,463  INFO  [cfgA_noise00] Época  16000  loss=3.7814e-07  D=0.04984  rho=0.20000
+2026-06-18 22:45:43,767  INFO  [cfgA_noise00] Época  17000  loss=3.4190e-07  D=0.04987  rho=0.20002
+2026-06-18 22:46:13,205  INFO  [cfgA_noise00] Época  18000  loss=3.1219e-07  D=0.04988  rho=0.20003
+2026-06-18 22:46:43,287  INFO  [cfgA_noise00] Época  19000  loss=9.1166e-07  D=0.04989  rho=0.20003
+2026-06-18 22:47:12,352  INFO  [cfgA_noise00] Época  20000  loss=3.3743e-07  D=0.04991  rho=0.20004
+2026-06-18 22:47:12,352  INFO  [cfgA_noise00] -- Resultados finales --
+2026-06-18 22:47:12,352  INFO  [cfgA_noise00]  D_true=0.0500  D_est=0.0499  error=0.19%
+2026-06-18 22:47:12,352  INFO  [cfgA_noise00]  rho_true=0.2000  rho_est=0.2000  error=0.02%
+2026-06-18 22:47:12,398  INFO  
+2026-06-18 22:47:12,398  INFO  ------------------------------------------------------------
+2026-06-18 22:47:12,398  INFO  Experimento: cfgA_noise01
+2026-06-18 22:47:12,406  INFO  [cfgA_noise01] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 22:47:12,406  INFO  [cfgA_noise01] D_true=0.0500  rho_true=0.2000
+2026-06-18 22:47:12,457  INFO  [cfgA_noise01] Época      1  loss=1.1325e-01  D=0.10010  rho=0.49950
+2026-06-18 22:47:44,926  INFO  [cfgA_noise01] Época   1000  loss=4.2829e-04  D=0.07698  rho=0.31317
+2026-06-18 22:48:19,832  INFO  [cfgA_noise01] Época   2000  loss=1.5231e-04  D=0.06110  rho=0.24538
+2026-06-18 22:49:03,541  INFO  [cfgA_noise01] Época   3000  loss=1.0950e-04  D=0.05383  rho=0.21444
+2026-06-18 22:49:39,011  INFO  [cfgA_noise01] Época   4000  loss=2.4397e-04  D=0.05052  rho=0.20208
+2026-06-18 22:50:24,567  INFO  [cfgA_noise01] Época   5000  loss=1.0101e-04  D=0.04946  rho=0.19874
+2026-06-18 22:51:05,911  INFO  [cfgA_noise01] Época   6000  loss=1.0059e-04  D=0.04936  rho=0.19853
+2026-06-18 22:51:48,332  INFO  [cfgA_noise01] Época   7000  loss=1.0030e-04  D=0.04939  rho=0.19841
+2026-06-18 22:52:32,353  INFO  [cfgA_noise01] Época   8000  loss=9.9913e-05  D=0.04945  rho=0.19841
+2026-06-18 22:53:19,312  INFO  [cfgA_noise01] Época   9000  loss=9.9480e-05  D=0.04953  rho=0.19847
+2026-06-18 22:54:09,125  INFO  [cfgA_noise01] Época  10000  loss=1.6472e-04  D=0.04961  rho=0.19851
+2026-06-18 22:55:12,261  INFO  [cfgA_noise01] Época  11000  loss=9.9051e-05  D=0.04967  rho=0.19857
+2026-06-18 22:55:46,385  INFO  [cfgA_noise01] Época  12000  loss=9.9024e-05  D=0.04973  rho=0.19858
+2026-06-18 22:56:18,879  INFO  [cfgA_noise01] Época  13000  loss=9.9295e-05  D=0.04980  rho=0.19860
+2026-06-18 22:56:49,272  INFO  [cfgA_noise01] Época  14000  loss=1.0350e-04  D=0.04988  rho=0.19863
+2026-06-18 22:57:20,305  INFO  [cfgA_noise01] Época  15000  loss=9.8381e-05  D=0.04994  rho=0.19871
+2026-06-18 22:57:51,119  INFO  [cfgA_noise01] Época  16000  loss=9.8294e-05  D=0.04998  rho=0.19873
+2026-06-18 22:58:20,369  INFO  [cfgA_noise01] Época  17000  loss=9.8190e-05  D=0.05003  rho=0.19876
+2026-06-18 22:58:51,113  INFO  [cfgA_noise01] Época  18000  loss=9.8085e-05  D=0.05007  rho=0.19879
+2026-06-18 22:59:21,260  INFO  [cfgA_noise01] Época  19000  loss=9.8101e-05  D=0.05011  rho=0.19881
+2026-06-18 22:59:53,153  INFO  [cfgA_noise01] Época  20000  loss=9.7911e-05  D=0.05014  rho=0.19883
+2026-06-18 22:59:53,153  INFO  [cfgA_noise01] -- Resultados finales --
+2026-06-18 22:59:53,153  INFO  [cfgA_noise01]  D_true=0.0500  D_est=0.0501  error=0.28%
+2026-06-18 22:59:53,153  INFO  [cfgA_noise01]  rho_true=0.2000  rho_est=0.1988  error=0.58%
+2026-06-18 22:59:53,195  INFO  
+2026-06-18 22:59:53,195  INFO  ------------------------------------------------------------
+2026-06-18 22:59:53,196  INFO  Experimento: cfgA_noise03
+2026-06-18 22:59:53,208  INFO  [cfgA_noise03] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 22:59:53,210  INFO  [cfgA_noise03] D_true=0.0500  rho_true=0.2000
+2026-06-18 22:59:53,263  INFO  [cfgA_noise03] Época      1  loss=1.6183e-01  D=0.10009  rho=0.49950
+2026-06-18 23:00:26,907  INFO  [cfgA_noise03] Época   1000  loss=1.1373e-03  D=0.07670  rho=0.31602
+2026-06-18 23:00:58,733  INFO  [cfgA_noise03] Época   2000  loss=9.3868e-04  D=0.06143  rho=0.24542
+2026-06-18 23:01:27,994  INFO  [cfgA_noise03] Época   3000  loss=8.9207e-04  D=0.05323  rho=0.21385
+2026-06-18 23:01:56,883  INFO  [cfgA_noise03] Época   4000  loss=8.7989e-04  D=0.04932  rho=0.20089
+2026-06-18 23:02:27,360  INFO  [cfgA_noise03] Época   5000  loss=8.7221e-04  D=0.04772  rho=0.19706
+2026-06-18 23:02:57,599  INFO  [cfgA_noise03] Época   6000  loss=8.6653e-04  D=0.04728  rho=0.19662
+2026-06-18 23:03:30,507  INFO  [cfgA_noise03] Época   7000  loss=8.5896e-04  D=0.04699  rho=0.19637
+2026-06-18 23:03:59,672  INFO  [cfgA_noise03] Época   8000  loss=8.5472e-04  D=0.04694  rho=0.19620
+2026-06-18 23:04:30,118  INFO  [cfgA_noise03] Época   9000  loss=8.4276e-04  D=0.04710  rho=0.19609
+2026-06-18 23:04:59,269  INFO  [cfgA_noise03] Época  10000  loss=8.3707e-04  D=0.04718  rho=0.19589
+2026-06-18 23:05:34,588  INFO  [cfgA_noise03] Época  11000  loss=8.3228e-04  D=0.04714  rho=0.19569
+2026-06-18 23:06:05,008  INFO  [cfgA_noise03] Época  12000  loss=8.2809e-04  D=0.04701  rho=0.19545
+2026-06-18 23:06:35,221  INFO  [cfgA_noise03] Época  13000  loss=8.3444e-04  D=0.04691  rho=0.19529
+2026-06-18 23:07:04,267  INFO  [cfgA_noise03] Época  14000  loss=8.2081e-04  D=0.04683  rho=0.19520
+2026-06-18 23:07:34,518  INFO  [cfgA_noise03] Época  15000  loss=8.1692e-04  D=0.04678  rho=0.19519
+2026-06-18 23:08:04,155  INFO  [cfgA_noise03] Época  16000  loss=8.1442e-04  D=0.04673  rho=0.19522
+2026-06-18 23:08:33,533  INFO  [cfgA_noise03] Época  17000  loss=8.1239e-04  D=0.04666  rho=0.19524
+2026-06-18 23:09:05,080  INFO  [cfgA_noise03] Época  18000  loss=8.0773e-04  D=0.04656  rho=0.19529
+2026-06-18 23:09:33,996  INFO  [cfgA_noise03] Época  19000  loss=8.0457e-04  D=0.04642  rho=0.19528
+2026-06-18 23:10:04,223  INFO  [cfgA_noise03] Época  20000  loss=8.0166e-04  D=0.04628  rho=0.19526
+2026-06-18 23:10:04,225  INFO  [cfgA_noise03] -- Resultados finales --
+2026-06-18 23:10:04,225  INFO  [cfgA_noise03]  D_true=0.0500  D_est=0.0463  error=7.43%
+2026-06-18 23:10:04,225  INFO  [cfgA_noise03]  rho_true=0.2000  rho_est=0.1953  error=2.37%
+2026-06-18 23:10:04,257  INFO  
+2026-06-18 23:10:04,257  INFO  ------------------------------------------------------------
+2026-06-18 23:10:04,257  INFO  Experimento: cfgA_noise05
+2026-06-18 23:10:04,268  INFO  [cfgA_noise05] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 23:10:04,268  INFO  [cfgA_noise05] D_true=0.0500  rho_true=0.2000
+2026-06-18 23:10:04,304  INFO  [cfgA_noise05] Época      1  loss=1.2904e-01  D=0.09999  rho=0.49950
+2026-06-18 23:10:33,307  INFO  [cfgA_noise05] Época   1000  loss=2.8825e-03  D=0.06807  rho=0.31508
+2026-06-18 23:11:03,652  INFO  [cfgA_noise05] Época   2000  loss=2.5762e-03  D=0.04979  rho=0.24247
+2026-06-18 23:11:32,494  INFO  [cfgA_noise05] Época   3000  loss=2.4985e-03  D=0.04030  rho=0.20930
+2026-06-18 23:12:02,813  INFO  [cfgA_noise05] Época   4000  loss=2.4977e-03  D=0.03510  rho=0.19476
+2026-06-18 23:12:32,213  INFO  [cfgA_noise05] Época   5000  loss=2.4493e-03  D=0.03255  rho=0.18935
+2026-06-18 23:13:02,442  INFO  [cfgA_noise05] Época   6000  loss=2.4392e-03  D=0.03189  rho=0.18827
+2026-06-18 23:13:32,509  INFO  [cfgA_noise05] Época   7000  loss=2.4707e-03  D=0.03122  rho=0.18756
+2026-06-18 23:14:01,716  INFO  [cfgA_noise05] Época   8000  loss=2.4135e-03  D=0.03014  rho=0.18673
+2026-06-18 23:14:31,491  INFO  [cfgA_noise05] Época   9000  loss=2.3975e-03  D=0.02864  rho=0.18556
+2026-06-18 23:15:00,507  INFO  [cfgA_noise05] Época  10000  loss=2.3924e-03  D=0.02668  rho=0.18417
+2026-06-18 23:15:37,129  INFO  [cfgA_noise05] Época  11000  loss=2.3742e-03  D=0.02566  rho=0.18360
+2026-06-18 23:16:06,950  INFO  [cfgA_noise05] Época  12000  loss=2.3645e-03  D=0.02439  rho=0.18266
+2026-06-18 23:16:37,500  INFO  [cfgA_noise05] Época  13000  loss=2.3511e-03  D=0.02328  rho=0.18182
+2026-06-18 23:17:07,361  INFO  [cfgA_noise05] Época  14000  loss=2.3409e-03  D=0.02187  rho=0.18051
+2026-06-18 23:17:37,525  INFO  [cfgA_noise05] Época  15000  loss=2.3302e-03  D=0.02037  rho=0.17923
+2026-06-18 23:18:06,618  INFO  [cfgA_noise05] Época  16000  loss=2.3208e-03  D=0.01928  rho=0.17841
+2026-06-18 23:18:36,843  INFO  [cfgA_noise05] Época  17000  loss=2.3080e-03  D=0.01728  rho=0.17674
+2026-06-18 23:19:06,110  INFO  [cfgA_noise05] Época  18000  loss=2.2880e-03  D=0.01452  rho=0.17422
+2026-06-18 23:19:36,662  INFO  [cfgA_noise05] Época  19000  loss=2.2650e-03  D=0.01196  rho=0.17174
+2026-06-18 23:20:05,928  INFO  [cfgA_noise05] Época  20000  loss=2.2429e-03  D=0.01012  rho=0.16993
+2026-06-18 23:20:05,928  INFO  [cfgA_noise05] -- Resultados finales --
+2026-06-18 23:20:05,929  INFO  [cfgA_noise05]  D_true=0.0500  D_est=0.0101  error=79.76%
+2026-06-18 23:20:05,929  INFO  [cfgA_noise05]  rho_true=0.2000  rho_est=0.1699  error=15.03%
+2026-06-18 23:20:05,950  INFO  
+2026-06-18 23:20:05,951  INFO  ------------------------------------------------------------
+2026-06-18 23:20:05,951  INFO  Experimento: cfgB_noise00
+2026-06-18 23:20:05,960  INFO  [cfgB_noise00] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 23:20:05,960  INFO  [cfgB_noise00] D_true=0.1000  rho_true=0.5000
+2026-06-18 23:20:05,991  INFO  [cfgB_noise00] Época      1  loss=2.4076e-01  D=0.10010  rho=0.49950
+2026-06-18 23:20:34,930  INFO  [cfgB_noise00] Época   1000  loss=2.2497e-04  D=0.07388  rho=0.46205
+2026-06-18 23:21:05,036  INFO  [cfgB_noise00] Época   2000  loss=1.1712e-04  D=0.08209  rho=0.49255
+2026-06-18 23:21:34,140  INFO  [cfgB_noise00] Época   3000  loss=9.3277e-05  D=0.08724  rho=0.49489
+2026-06-18 23:22:04,434  INFO  [cfgB_noise00] Época   4000  loss=7.7759e-05  D=0.08937  rho=0.49495
+2026-06-18 23:22:34,525  INFO  [cfgB_noise00] Época   5000  loss=6.6352e-05  D=0.09094  rho=0.49612
+2026-06-18 23:23:05,167  INFO  [cfgB_noise00] Época   6000  loss=5.9905e-05  D=0.09183  rho=0.49637
+2026-06-18 23:23:34,122  INFO  [cfgB_noise00] Época   7000  loss=5.4641e-05  D=0.09229  rho=0.49619
+2026-06-18 23:24:04,089  INFO  [cfgB_noise00] Época   8000  loss=4.6954e-05  D=0.09271  rho=0.49644
+2026-06-18 23:24:34,015  INFO  [cfgB_noise00] Época   9000  loss=8.7827e-05  D=0.09316  rho=0.49663
+2026-06-18 23:25:08,567  INFO  [cfgB_noise00] Época  10000  loss=1.1998e-04  D=0.09378  rho=0.49677
+2026-06-18 23:25:39,086  INFO  [cfgB_noise00] Época  11000  loss=3.0557e-05  D=0.09433  rho=0.49744
+2026-06-18 23:26:13,859  INFO  [cfgB_noise00] Época  12000  loss=2.6809e-05  D=0.09515  rho=0.49761
+2026-06-18 23:26:43,458  INFO  [cfgB_noise00] Época  13000  loss=2.1435e-05  D=0.09594  rho=0.49796
+2026-06-18 23:27:15,181  INFO  [cfgB_noise00] Época  14000  loss=1.7621e-05  D=0.09652  rho=0.49809
+2026-06-18 23:27:45,488  INFO  [cfgB_noise00] Época  15000  loss=1.3936e-05  D=0.09699  rho=0.49824
+2026-06-18 23:28:14,680  INFO  [cfgB_noise00] Época  16000  loss=1.1934e-05  D=0.09725  rho=0.49831
+2026-06-18 23:28:45,760  INFO  [cfgB_noise00] Época  17000  loss=9.5472e-06  D=0.09757  rho=0.49838
+2026-06-18 23:29:24,587  INFO  [cfgB_noise00] Época  18000  loss=7.5257e-06  D=0.09788  rho=0.49850
+2026-06-18 23:30:03,462  INFO  [cfgB_noise00] Época  19000  loss=6.0000e-06  D=0.09815  rho=0.49864
+2026-06-18 23:30:38,214  INFO  [cfgB_noise00] Época  20000  loss=4.8539e-06  D=0.09839  rho=0.49876
+2026-06-18 23:30:38,215  INFO  [cfgB_noise00] -- Resultados finales --
+2026-06-18 23:30:38,215  INFO  [cfgB_noise00]  D_true=0.1000  D_est=0.0984  error=1.61%
+2026-06-18 23:30:38,215  INFO  [cfgB_noise00]  rho_true=0.5000  rho_est=0.4988  error=0.25%
+2026-06-18 23:30:38,248  INFO  
+2026-06-18 23:30:38,250  INFO  ------------------------------------------------------------
+2026-06-18 23:30:38,250  INFO  Experimento: cfgB_noise01
+2026-06-18 23:30:38,267  INFO  [cfgB_noise01] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 23:30:38,267  INFO  [cfgB_noise01] D_true=0.1000  rho_true=0.5000
+2026-06-18 23:30:38,306  INFO  [cfgB_noise01] Época      1  loss=2.5994e-01  D=0.10010  rho=0.49950
+2026-06-18 23:31:09,772  INFO  [cfgB_noise01] Época   1000  loss=3.5430e-04  D=0.07460  rho=0.46117
+2026-06-18 23:31:39,560  INFO  [cfgB_noise01] Época   2000  loss=2.5583e-04  D=0.08123  rho=0.48637
+2026-06-18 23:32:09,209  INFO  [cfgB_noise01] Época   3000  loss=2.2277e-04  D=0.08608  rho=0.48918
+2026-06-18 23:32:38,653  INFO  [cfgB_noise01] Época   4000  loss=1.8429e-04  D=0.08770  rho=0.48864
+2026-06-18 23:33:11,861  INFO  [cfgB_noise01] Época   5000  loss=1.7395e-04  D=0.08840  rho=0.48942
+2026-06-18 23:33:41,365  INFO  [cfgB_noise01] Época   6000  loss=1.6776e-04  D=0.08884  rho=0.48962
+2026-06-18 23:34:11,909  INFO  [cfgB_noise01] Época   7000  loss=1.6038e-04  D=0.08905  rho=0.48956
+2026-06-18 23:34:43,677  INFO  [cfgB_noise01] Época   8000  loss=4.2482e-04  D=0.08933  rho=0.48952
+2026-06-18 23:35:22,164  INFO  [cfgB_noise01] Época   9000  loss=1.6506e-04  D=0.08972  rho=0.48977
+2026-06-18 23:36:04,489  INFO  [cfgB_noise01] Época  10000  loss=1.3862e-04  D=0.09042  rho=0.49026
+2026-06-18 23:36:49,955  INFO  [cfgB_noise01] Época  11000  loss=1.3155e-04  D=0.09118  rho=0.49080
+2026-06-18 23:37:19,722  INFO  [cfgB_noise01] Época  12000  loss=1.2432e-04  D=0.09223  rho=0.49154
+2026-06-18 23:37:47,779  INFO  [cfgB_noise01] Época  13000  loss=1.1889e-04  D=0.09324  rho=0.49208
+2026-06-18 23:38:16,036  INFO  [cfgB_noise01] Época  14000  loss=1.1525e-04  D=0.09400  rho=0.49234
+2026-06-18 23:38:44,449  INFO  [cfgB_noise01] Época  15000  loss=1.1319e-04  D=0.09452  rho=0.49246
+2026-06-18 23:39:12,291  INFO  [cfgB_noise01] Época  16000  loss=1.1184e-04  D=0.09480  rho=0.49248
+2026-06-18 23:39:41,120  INFO  [cfgB_noise01] Época  17000  loss=1.1076e-04  D=0.09509  rho=0.49250
+2026-06-18 23:40:09,116  INFO  [cfgB_noise01] Época  18000  loss=1.1328e-04  D=0.09533  rho=0.49251
+2026-06-18 23:40:37,866  INFO  [cfgB_noise01] Época  19000  loss=1.1168e-04  D=0.09552  rho=0.49253
+2026-06-18 23:41:07,404  INFO  [cfgB_noise01] Época  20000  loss=1.0870e-04  D=0.09567  rho=0.49257
+2026-06-18 23:41:07,404  INFO  [cfgB_noise01] -- Resultados finales --
+2026-06-18 23:41:07,404  INFO  [cfgB_noise01]  D_true=0.1000  D_est=0.0957  error=4.33%
+2026-06-18 23:41:07,404  INFO  [cfgB_noise01]  rho_true=0.5000  rho_est=0.4926  error=1.49%
+2026-06-18 23:41:07,456  INFO  
+2026-06-18 23:41:07,457  INFO  ------------------------------------------------------------
+2026-06-18 23:41:07,457  INFO  Experimento: cfgB_noise03
+2026-06-18 23:41:07,470  INFO  [cfgB_noise03] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 23:41:07,470  INFO  [cfgB_noise03] D_true=0.1000  rho_true=0.5000
+2026-06-18 23:41:07,514  INFO  [cfgB_noise03] Época      1  loss=2.8145e-01  D=0.09990  rho=0.49950
+2026-06-18 23:41:35,889  INFO  [cfgB_noise03] Época   1000  loss=1.4221e-03  D=0.07176  rho=0.45582
+2026-06-18 23:42:04,752  INFO  [cfgB_noise03] Época   2000  loss=1.2909e-03  D=0.07617  rho=0.48633
+2026-06-18 23:42:32,551  INFO  [cfgB_noise03] Época   3000  loss=1.2345e-03  D=0.08030  rho=0.48880
+2026-06-18 23:43:01,265  INFO  [cfgB_noise03] Época   4000  loss=1.1791e-03  D=0.08266  rho=0.48859
+2026-06-18 23:43:28,954  INFO  [cfgB_noise03] Época   5000  loss=1.1623e-03  D=0.08396  rho=0.48765
+2026-06-18 23:43:57,610  INFO  [cfgB_noise03] Época   6000  loss=1.1326e-03  D=0.08436  rho=0.48887
+2026-06-18 23:44:25,197  INFO  [cfgB_noise03] Época   7000  loss=1.1175e-03  D=0.08488  rho=0.48941
+2026-06-18 23:44:53,581  INFO  [cfgB_noise03] Época   8000  loss=1.1830e-03  D=0.08589  rho=0.48987
+2026-06-18 23:45:27,223  INFO  [cfgB_noise03] Época   9000  loss=1.0955e-03  D=0.08687  rho=0.49063
+2026-06-18 23:45:58,837  INFO  [cfgB_noise03] Época  10000  loss=1.0875e-03  D=0.08764  rho=0.49106
+2026-06-18 23:46:28,817  INFO  [cfgB_noise03] Época  11000  loss=1.0831e-03  D=0.08802  rho=0.49126
+2026-06-18 23:46:56,388  INFO  [cfgB_noise03] Época  12000  loss=1.0834e-03  D=0.08838  rho=0.49140
+2026-06-18 23:47:25,977  INFO  [cfgB_noise03] Época  13000  loss=1.0747e-03  D=0.08860  rho=0.49145
+2026-06-18 23:47:53,666  INFO  [cfgB_noise03] Época  14000  loss=1.0715e-03  D=0.08871  rho=0.49151
+2026-06-18 23:48:22,058  INFO  [cfgB_noise03] Época  15000  loss=1.0687e-03  D=0.08872  rho=0.49167
+2026-06-18 23:48:49,882  INFO  [cfgB_noise03] Época  16000  loss=1.0669e-03  D=0.08868  rho=0.49179
+2026-06-18 23:49:18,142  INFO  [cfgB_noise03] Época  17000  loss=1.0646e-03  D=0.08854  rho=0.49191
+2026-06-18 23:49:45,921  INFO  [cfgB_noise03] Época  18000  loss=1.0625e-03  D=0.08832  rho=0.49197
+2026-06-18 23:50:13,348  INFO  [cfgB_noise03] Época  19000  loss=1.0604e-03  D=0.08809  rho=0.49199
+2026-06-18 23:50:41,699  INFO  [cfgB_noise03] Época  20000  loss=1.0587e-03  D=0.08790  rho=0.49200
+2026-06-18 23:50:41,699  INFO  [cfgB_noise03] -- Resultados finales --
+2026-06-18 23:50:41,700  INFO  [cfgB_noise03]  D_true=0.1000  D_est=0.0879  error=12.10%
+2026-06-18 23:50:41,700  INFO  [cfgB_noise03]  rho_true=0.5000  rho_est=0.4920  error=1.60%
+2026-06-18 23:50:41,744  INFO  
+2026-06-18 23:50:41,744  INFO  ------------------------------------------------------------
+2026-06-18 23:50:41,744  INFO  Experimento: cfgB_noise05
+2026-06-18 23:50:41,759  INFO  [cfgB_noise05] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-18 23:50:41,759  INFO  [cfgB_noise05] D_true=0.1000  rho_true=0.5000
+2026-06-18 23:50:41,801  INFO  [cfgB_noise05] Época      1  loss=4.7539e-01  D=0.10010  rho=0.49950
+2026-06-18 23:51:09,641  INFO  [cfgB_noise05] Época   1000  loss=3.2635e-03  D=0.06617  rho=0.46302
+2026-06-18 23:51:38,052  INFO  [cfgB_noise05] Época   2000  loss=3.2049e-03  D=0.06105  rho=0.47976
+2026-06-18 23:52:05,736  INFO  [cfgB_noise05] Época   3000  loss=3.0771e-03  D=0.06409  rho=0.48246
+2026-06-18 23:52:36,202  INFO  [cfgB_noise05] Época   4000  loss=3.0515e-03  D=0.06608  rho=0.48277
+2026-06-18 23:53:04,130  INFO  [cfgB_noise05] Época   5000  loss=3.0114e-03  D=0.06597  rho=0.48171
+2026-06-18 23:53:31,517  INFO  [cfgB_noise05] Época   6000  loss=2.9652e-03  D=0.06417  rho=0.48008
+2026-06-18 23:54:00,163  INFO  [cfgB_noise05] Época   7000  loss=2.9290e-03  D=0.06350  rho=0.48003
+2026-06-18 23:54:27,853  INFO  [cfgB_noise05] Época   8000  loss=2.9101e-03  D=0.06346  rho=0.47982
+2026-06-18 23:54:56,097  INFO  [cfgB_noise05] Época   9000  loss=2.8930e-03  D=0.06395  rho=0.47961
+2026-06-18 23:55:28,495  INFO  [cfgB_noise05] Época  10000  loss=2.8720e-03  D=0.06439  rho=0.47959
+2026-06-18 23:55:57,100  INFO  [cfgB_noise05] Época  11000  loss=2.8562e-03  D=0.06479  rho=0.47964
+2026-06-18 23:56:24,485  INFO  [cfgB_noise05] Época  12000  loss=2.8358e-03  D=0.06493  rho=0.47960
+2026-06-18 23:56:52,516  INFO  [cfgB_noise05] Época  13000  loss=2.8160e-03  D=0.06411  rho=0.47959
+2026-06-18 23:57:20,807  INFO  [cfgB_noise05] Época  14000  loss=2.8025e-03  D=0.06295  rho=0.47974
+2026-06-18 23:57:48,760  INFO  [cfgB_noise05] Época  15000  loss=2.7898e-03  D=0.06189  rho=0.47999
+2026-06-18 23:58:16,891  INFO  [cfgB_noise05] Época  16000  loss=2.7803e-03  D=0.06135  rho=0.48006
+2026-06-18 23:58:44,534  INFO  [cfgB_noise05] Época  17000  loss=2.7727e-03  D=0.06070  rho=0.48007
+2026-06-18 23:59:12,643  INFO  [cfgB_noise05] Época  18000  loss=2.7661e-03  D=0.06007  rho=0.47999
+2026-06-18 23:59:40,336  INFO  [cfgB_noise05] Época  19000  loss=2.7596e-03  D=0.05943  rho=0.47984
+2026-06-19 00:00:08,255  INFO  [cfgB_noise05] Época  20000  loss=2.7532e-03  D=0.05880  rho=0.47963
+2026-06-19 00:00:08,256  INFO  [cfgB_noise05] -- Resultados finales --
+2026-06-19 00:00:08,256  INFO  [cfgB_noise05]  D_true=0.1000  D_est=0.0588  error=41.20%
+2026-06-19 00:00:08,256  INFO  [cfgB_noise05]  rho_true=0.5000  rho_est=0.4796  error=4.07%
+2026-06-19 00:00:08,302  INFO  
+2026-06-19 00:00:08,303  INFO  ------------------------------------------------------------
+2026-06-19 00:00:08,303  INFO  Experimento: cfgC_noise00
+2026-06-19 00:00:08,317  INFO  [cfgC_noise00] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:00:08,317  INFO  [cfgC_noise00] D_true=0.2000  rho_true=0.3000
+2026-06-19 00:00:08,358  INFO  [cfgC_noise00] Época      1  loss=2.2207e-01  D=0.09990  rho=0.49950
+2026-06-19 00:00:38,006  INFO  [cfgC_noise00] Época   1000  loss=4.6019e-04  D=0.10770  rho=0.32980
+2026-06-19 00:01:09,016  INFO  [cfgC_noise00] Época   2000  loss=2.1215e-04  D=0.13872  rho=0.29159
+2026-06-19 00:01:37,704  INFO  [cfgC_noise00] Época   3000  loss=1.4614e-04  D=0.15984  rho=0.28765
+2026-06-19 00:02:05,302  INFO  [cfgC_noise00] Época   4000  loss=1.0549e-04  D=0.17663  rho=0.29135
+2026-06-19 00:02:33,830  INFO  [cfgC_noise00] Época   5000  loss=8.6361e-05  D=0.18527  rho=0.29376
+2026-06-19 00:03:01,600  INFO  [cfgC_noise00] Época   6000  loss=6.7363e-05  D=0.18793  rho=0.29506
+2026-06-19 00:03:30,693  INFO  [cfgC_noise00] Época   7000  loss=5.9055e-05  D=0.18936  rho=0.29578
+2026-06-19 00:03:59,303  INFO  [cfgC_noise00] Época   8000  loss=3.9480e-05  D=0.18972  rho=0.29640
+2026-06-19 00:04:27,453  INFO  [cfgC_noise00] Época   9000  loss=2.8588e-05  D=0.19047  rho=0.29682
+2026-06-19 00:04:56,070  INFO  [cfgC_noise00] Época  10000  loss=2.0582e-05  D=0.19184  rho=0.29726
+2026-06-19 00:05:28,108  INFO  [cfgC_noise00] Época  11000  loss=1.6047e-05  D=0.19306  rho=0.29770
+2026-06-19 00:05:56,877  INFO  [cfgC_noise00] Época  12000  loss=1.2345e-05  D=0.19435  rho=0.29813
+2026-06-19 00:06:24,537  INFO  [cfgC_noise00] Época  13000  loss=9.9594e-06  D=0.19521  rho=0.29842
+2026-06-19 00:06:53,085  INFO  [cfgC_noise00] Época  14000  loss=1.0769e-05  D=0.19586  rho=0.29857
+2026-06-19 00:07:22,292  INFO  [cfgC_noise00] Época  15000  loss=2.6495e-05  D=0.19632  rho=0.29874
+2026-06-19 00:07:50,626  INFO  [cfgC_noise00] Época  16000  loss=6.0830e-06  D=0.19662  rho=0.29890
+2026-06-19 00:08:18,743  INFO  [cfgC_noise00] Época  17000  loss=5.2285e-06  D=0.19698  rho=0.29902
+2026-06-19 00:08:47,287  INFO  [cfgC_noise00] Época  18000  loss=4.6045e-06  D=0.19731  rho=0.29913
+2026-06-19 00:09:15,429  INFO  [cfgC_noise00] Época  19000  loss=3.9605e-06  D=0.19758  rho=0.29922
+2026-06-19 00:09:43,642  INFO  [cfgC_noise00] Época  20000  loss=3.5011e-06  D=0.19782  rho=0.29927
+2026-06-19 00:09:43,643  INFO  [cfgC_noise00] -- Resultados finales --
+2026-06-19 00:09:43,643  INFO  [cfgC_noise00]  D_true=0.2000  D_est=0.1978  error=1.09%
+2026-06-19 00:09:43,643  INFO  [cfgC_noise00]  rho_true=0.3000  rho_est=0.2993  error=0.24%
+2026-06-19 00:09:43,690  INFO  
+2026-06-19 00:09:43,690  INFO  ------------------------------------------------------------
+2026-06-19 00:09:43,691  INFO  Experimento: cfgC_noise01
+2026-06-19 00:09:43,706  INFO  [cfgC_noise01] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:09:43,706  INFO  [cfgC_noise01] D_true=0.2000  rho_true=0.3000
+2026-06-19 00:09:43,741  INFO  [cfgC_noise01] Época      1  loss=1.6455e-01  D=0.09990  rho=0.49950
+2026-06-19 00:10:12,207  INFO  [cfgC_noise01] Época   1000  loss=8.5298e-04  D=0.08484  rho=0.32331
+2026-06-19 00:10:39,782  INFO  [cfgC_noise01] Época   2000  loss=4.3679e-04  D=0.10924  rho=0.28129
+2026-06-19 00:11:07,301  INFO  [cfgC_noise01] Época   3000  loss=3.5803e-04  D=0.13071  rho=0.27859
+2026-06-19 00:11:35,751  INFO  [cfgC_noise01] Época   4000  loss=2.9599e-04  D=0.15127  rho=0.28307
+2026-06-19 00:12:03,571  INFO  [cfgC_noise01] Época   5000  loss=2.5158e-04  D=0.16588  rho=0.28731
+2026-06-19 00:12:34,528  INFO  [cfgC_noise01] Época   6000  loss=2.2509e-04  D=0.17118  rho=0.28927
+2026-06-19 00:13:02,148  INFO  [cfgC_noise01] Época   7000  loss=1.9429e-04  D=0.17652  rho=0.29142
+2026-06-19 00:13:30,732  INFO  [cfgC_noise01] Época   8000  loss=1.7376e-04  D=0.18185  rho=0.29333
+2026-06-19 00:13:58,264  INFO  [cfgC_noise01] Época   9000  loss=1.6037e-04  D=0.18645  rho=0.29458
+2026-06-19 00:14:26,029  INFO  [cfgC_noise01] Época  10000  loss=1.5188e-04  D=0.18982  rho=0.29541
+2026-06-19 00:14:54,292  INFO  [cfgC_noise01] Época  11000  loss=1.4830e-04  D=0.19150  rho=0.29586
+2026-06-19 00:15:25,939  INFO  [cfgC_noise01] Época  12000  loss=1.4516e-04  D=0.19288  rho=0.29629
+2026-06-19 00:15:55,814  INFO  [cfgC_noise01] Época  13000  loss=1.4302e-04  D=0.19379  rho=0.29660
+2026-06-19 00:16:23,220  INFO  [cfgC_noise01] Época  14000  loss=1.4436e-04  D=0.19443  rho=0.29684
+2026-06-19 00:16:52,316  INFO  [cfgC_noise01] Época  15000  loss=1.4031e-04  D=0.19486  rho=0.29701
+2026-06-19 00:17:19,732  INFO  [cfgC_noise01] Época  16000  loss=1.3958e-04  D=0.19515  rho=0.29713
+2026-06-19 00:17:48,188  INFO  [cfgC_noise01] Época  17000  loss=1.3883e-04  D=0.19546  rho=0.29725
+2026-06-19 00:18:16,087  INFO  [cfgC_noise01] Época  18000  loss=1.3815e-04  D=0.19573  rho=0.29734
+2026-06-19 00:18:43,674  INFO  [cfgC_noise01] Época  19000  loss=1.3903e-04  D=0.19597  rho=0.29742
+2026-06-19 00:19:11,998  INFO  [cfgC_noise01] Época  20000  loss=1.3711e-04  D=0.19616  rho=0.29746
+2026-06-19 00:19:11,999  INFO  [cfgC_noise01] -- Resultados finales --
+2026-06-19 00:19:11,999  INFO  [cfgC_noise01]  D_true=0.2000  D_est=0.1962  error=1.92%
+2026-06-19 00:19:11,999  INFO  [cfgC_noise01]  rho_true=0.3000  rho_est=0.2975  error=0.85%
+2026-06-19 00:19:12,043  INFO  
+2026-06-19 00:19:12,043  INFO  ------------------------------------------------------------
+2026-06-19 00:19:12,044  INFO  Experimento: cfgC_noise03
+2026-06-19 00:19:12,057  INFO  [cfgC_noise03] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:19:12,057  INFO  [cfgC_noise03] D_true=0.2000  rho_true=0.3000
+2026-06-19 00:19:12,098  INFO  [cfgC_noise03] Época      1  loss=2.6275e-01  D=0.10010  rho=0.49950
+2026-06-19 00:19:39,962  INFO  [cfgC_noise03] Época   1000  loss=1.7463e-03  D=0.08715  rho=0.32487
+2026-06-19 00:20:08,404  INFO  [cfgC_noise03] Época   2000  loss=1.3095e-03  D=0.11947  rho=0.28164
+2026-06-19 00:20:35,683  INFO  [cfgC_noise03] Época   3000  loss=1.3003e-03  D=0.13667  rho=0.27617
+2026-06-19 00:21:03,684  INFO  [cfgC_noise03] Época   4000  loss=1.1681e-03  D=0.15361  rho=0.28015
+2026-06-19 00:21:32,074  INFO  [cfgC_noise03] Época   5000  loss=1.1309e-03  D=0.16872  rho=0.28518
+2026-06-19 00:21:59,642  INFO  [cfgC_noise03] Época   6000  loss=1.0926e-03  D=0.17481  rho=0.28780
+2026-06-19 00:22:28,402  INFO  [cfgC_noise03] Época   7000  loss=1.0826e-03  D=0.18098  rho=0.28985
+2026-06-19 00:22:55,813  INFO  [cfgC_noise03] Época   8000  loss=1.0709e-03  D=0.18510  rho=0.29113
+2026-06-19 00:23:24,192  INFO  [cfgC_noise03] Época   9000  loss=1.0645e-03  D=0.18768  rho=0.29194
+2026-06-19 00:23:52,273  INFO  [cfgC_noise03] Época  10000  loss=1.0806e-03  D=0.18907  rho=0.29230
+2026-06-19 00:24:20,064  INFO  [cfgC_noise03] Época  11000  loss=1.0584e-03  D=0.18965  rho=0.29249
+2026-06-19 00:24:48,494  INFO  [cfgC_noise03] Época  12000  loss=1.0563e-03  D=0.19003  rho=0.29258
+2026-06-19 00:25:20,505  INFO  [cfgC_noise03] Época  13000  loss=1.0548e-03  D=0.19028  rho=0.29264
+2026-06-19 00:25:49,523  INFO  [cfgC_noise03] Época  14000  loss=1.0530e-03  D=0.19043  rho=0.29267
+2026-06-19 00:26:16,909  INFO  [cfgC_noise03] Época  15000  loss=1.0514e-03  D=0.19054  rho=0.29271
+2026-06-19 00:26:45,434  INFO  [cfgC_noise03] Época  16000  loss=1.0503e-03  D=0.19058  rho=0.29273
+2026-06-19 00:27:13,836  INFO  [cfgC_noise03] Época  17000  loss=1.0490e-03  D=0.19061  rho=0.29277
+2026-06-19 00:27:42,777  INFO  [cfgC_noise03] Época  18000  loss=1.0473e-03  D=0.19064  rho=0.29281
+2026-06-19 00:28:10,811  INFO  [cfgC_noise03] Época  19000  loss=1.0457e-03  D=0.19062  rho=0.29286
+2026-06-19 00:28:38,228  INFO  [cfgC_noise03] Época  20000  loss=1.0441e-03  D=0.19058  rho=0.29290
+2026-06-19 00:28:38,228  INFO  [cfgC_noise03] -- Resultados finales --
+2026-06-19 00:28:38,228  INFO  [cfgC_noise03]  D_true=0.2000  D_est=0.1906  error=4.71%
+2026-06-19 00:28:38,228  INFO  [cfgC_noise03]  rho_true=0.3000  rho_est=0.2929  error=2.37%
+2026-06-19 00:28:38,254  INFO  
+2026-06-19 00:28:38,254  INFO  ------------------------------------------------------------
+2026-06-19 00:28:38,254  INFO  Experimento: cfgC_noise05
+2026-06-19 00:28:38,268  INFO  [cfgC_noise05] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:28:38,268  INFO  [cfgC_noise05] D_true=0.2000  rho_true=0.3000
+2026-06-19 00:28:38,299  INFO  [cfgC_noise05] Época      1  loss=1.4158e-01  D=0.10010  rho=0.49950
+2026-06-19 00:29:07,477  INFO  [cfgC_noise05] Época   1000  loss=3.4109e-03  D=0.09348  rho=0.31702
+2026-06-19 00:29:35,357  INFO  [cfgC_noise05] Época   2000  loss=3.1256e-03  D=0.12233  rho=0.27352
+2026-06-19 00:30:03,793  INFO  [cfgC_noise05] Época   3000  loss=3.0530e-03  D=0.14300  rho=0.26963
+2026-06-19 00:30:32,075  INFO  [cfgC_noise05] Época   4000  loss=3.0053e-03  D=0.16012  rho=0.27313
+2026-06-19 00:31:00,981  INFO  [cfgC_noise05] Época   5000  loss=2.9641e-03  D=0.17134  rho=0.27536
+2026-06-19 00:31:29,159  INFO  [cfgC_noise05] Época   6000  loss=2.9377e-03  D=0.17523  rho=0.27607
+2026-06-19 00:31:56,358  INFO  [cfgC_noise05] Época   7000  loss=2.9055e-03  D=0.17571  rho=0.27569
+2026-06-19 00:32:25,119  INFO  [cfgC_noise05] Época   8000  loss=2.8752e-03  D=0.17478  rho=0.27529
+2026-06-19 00:32:52,503  INFO  [cfgC_noise05] Época   9000  loss=2.8509e-03  D=0.17475  rho=0.27523
+2026-06-19 00:33:23,418  INFO  [cfgC_noise05] Época  10000  loss=2.8294e-03  D=0.17550  rho=0.27543
+2026-06-19 00:33:53,983  INFO  [cfgC_noise05] Época  11000  loss=2.8117e-03  D=0.17554  rho=0.27554
+2026-06-19 00:34:22,175  INFO  [cfgC_noise05] Época  12000  loss=2.7785e-03  D=0.17424  rho=0.27556
+2026-06-19 00:34:50,047  INFO  [cfgC_noise05] Época  13000  loss=2.7408e-03  D=0.17359  rho=0.27599
+2026-06-19 00:35:24,645  INFO  [cfgC_noise05] Época  14000  loss=2.7102e-03  D=0.17326  rho=0.27630
+2026-06-19 00:35:52,680  INFO  [cfgC_noise05] Época  15000  loss=2.6962e-03  D=0.17243  rho=0.27629
+2026-06-19 00:36:20,329  INFO  [cfgC_noise05] Época  16000  loss=2.6898e-03  D=0.17204  rho=0.27625
+2026-06-19 00:36:49,355  INFO  [cfgC_noise05] Época  17000  loss=2.6821e-03  D=0.17146  rho=0.27615
+2026-06-19 00:37:17,290  INFO  [cfgC_noise05] Época  18000  loss=2.6755e-03  D=0.17084  rho=0.27604
+2026-06-19 00:37:46,134  INFO  [cfgC_noise05] Época  19000  loss=2.6695e-03  D=0.17029  rho=0.27599
+2026-06-19 00:38:13,441  INFO  [cfgC_noise05] Época  20000  loss=2.6645e-03  D=0.16975  rho=0.27597
+2026-06-19 00:38:13,442  INFO  [cfgC_noise05] -- Resultados finales --
+2026-06-19 00:38:13,442  INFO  [cfgC_noise05]  D_true=0.2000  D_est=0.1698  error=15.12%
+2026-06-19 00:38:13,442  INFO  [cfgC_noise05]  rho_true=0.3000  rho_est=0.2760  error=8.01%
+2026-06-19 00:38:13,479  INFO  
+2026-06-19 00:38:13,480  INFO  ------------------------------------------------------------
+2026-06-19 00:38:13,480  INFO  Experimento: cfgD_noise00
+2026-06-19 00:38:13,495  INFO  [cfgD_noise00] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:38:13,495  INFO  [cfgD_noise00] D_true=0.0800  rho_true=1.0000
+2026-06-19 00:38:13,590  INFO  [cfgD_noise00] Época      1  loss=5.8983e-01  D=0.10008  rho=0.49950
+2026-06-19 00:38:41,706  INFO  [cfgD_noise00] Época   1000  loss=2.6707e-03  D=0.04932  rho=0.82190
+2026-06-19 00:39:10,306  INFO  [cfgD_noise00] Época   2000  loss=1.2815e-03  D=0.04024  rho=0.95642
+2026-06-19 00:39:38,408  INFO  [cfgD_noise00] Época   3000  loss=2.5344e-04  D=0.04850  rho=0.97191
+2026-06-19 00:40:07,750  INFO  [cfgD_noise00] Época   4000  loss=1.7062e-04  D=0.05574  rho=0.98674
+2026-06-19 00:40:35,136  INFO  [cfgD_noise00] Época   5000  loss=5.8904e-05  D=0.06137  rho=0.99287
+2026-06-19 00:41:03,552  INFO  [cfgD_noise00] Época   6000  loss=4.4847e-05  D=0.06358  rho=0.99654
+2026-06-19 00:41:31,001  INFO  [cfgD_noise00] Época   7000  loss=4.2890e-05  D=0.06580  rho=0.99539
+2026-06-19 00:41:58,802  INFO  [cfgD_noise00] Época   8000  loss=2.8894e-05  D=0.06749  rho=0.99724
+2026-06-19 00:42:26,901  INFO  [cfgD_noise00] Época   9000  loss=2.3554e-05  D=0.06902  rho=0.99753
+2026-06-19 00:42:54,303  INFO  [cfgD_noise00] Época  10000  loss=1.9545e-05  D=0.07034  rho=0.99777
+2026-06-19 00:43:22,996  INFO  [cfgD_noise00] Época  11000  loss=1.7353e-05  D=0.07109  rho=0.99793
+2026-06-19 00:43:50,527  INFO  [cfgD_noise00] Época  12000  loss=1.4993e-05  D=0.07203  rho=0.99804
+2026-06-19 00:44:18,654  INFO  [cfgD_noise00] Época  13000  loss=1.3071e-05  D=0.07286  rho=0.99812
+2026-06-19 00:44:46,353  INFO  [cfgD_noise00] Época  14000  loss=1.1556e-05  D=0.07356  rho=0.99817
+2026-06-19 00:45:18,494  INFO  [cfgD_noise00] Época  15000  loss=1.0111e-05  D=0.07416  rho=0.99826
+2026-06-19 00:45:46,760  INFO  [cfgD_noise00] Época  16000  loss=9.3177e-06  D=0.07449  rho=0.99834
+2026-06-19 00:46:14,811  INFO  [cfgD_noise00] Época  17000  loss=8.6618e-06  D=0.07493  rho=0.99829
+2026-06-19 00:46:43,317  INFO  [cfgD_noise00] Época  18000  loss=7.4091e-06  D=0.07533  rho=0.99849
+2026-06-19 00:47:10,844  INFO  [cfgD_noise00] Época  19000  loss=6.6132e-06  D=0.07567  rho=0.99854
+2026-06-19 00:47:39,277  INFO  [cfgD_noise00] Época  20000  loss=5.9197e-06  D=0.07597  rho=0.99853
+2026-06-19 00:47:39,277  INFO  [cfgD_noise00] -- Resultados finales --
+2026-06-19 00:47:39,277  INFO  [cfgD_noise00]  D_true=0.0800  D_est=0.0760  error=5.03%
+2026-06-19 00:47:39,278  INFO  [cfgD_noise00]  rho_true=1.0000  rho_est=0.9985  error=0.15%
+2026-06-19 00:47:39,321  INFO  
+2026-06-19 00:47:39,322  INFO  ------------------------------------------------------------
+2026-06-19 00:47:39,322  INFO  Experimento: cfgD_noise01
+2026-06-19 00:47:39,335  INFO  [cfgD_noise01] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:47:39,335  INFO  [cfgD_noise01] D_true=0.0800  rho_true=1.0000
+2026-06-19 00:47:39,385  INFO  [cfgD_noise01] Época      1  loss=4.9539e-01  D=0.10009  rho=0.49950
+2026-06-19 00:48:06,956  INFO  [cfgD_noise01] Época   1000  loss=2.4678e-03  D=0.04722  rho=0.74905
+2026-06-19 00:48:34,736  INFO  [cfgD_noise01] Época   2000  loss=6.9302e-04  D=0.04394  rho=0.95032
+2026-06-19 00:49:02,649  INFO  [cfgD_noise01] Época   3000  loss=3.1105e-04  D=0.04943  rho=0.98297
+2026-06-19 00:49:31,089  INFO  [cfgD_noise01] Época   4000  loss=1.9644e-04  D=0.05750  rho=0.99622
+2026-06-19 00:49:59,382  INFO  [cfgD_noise01] Época   5000  loss=2.7215e-04  D=0.06290  rho=0.99408
+2026-06-19 00:50:26,785  INFO  [cfgD_noise01] Época   6000  loss=1.5483e-04  D=0.06532  rho=1.00220
+2026-06-19 00:50:55,699  INFO  [cfgD_noise01] Época   7000  loss=1.5333e-04  D=0.06795  rho=1.00148
+2026-06-19 00:51:23,252  INFO  [cfgD_noise01] Época   8000  loss=1.4080e-04  D=0.07000  rho=1.00298
+2026-06-19 00:51:50,998  INFO  [cfgD_noise01] Época   9000  loss=1.3681e-04  D=0.07158  rho=1.00322
+2026-06-19 00:52:19,227  INFO  [cfgD_noise01] Época  10000  loss=1.3576e-04  D=0.07275  rho=1.00195
+2026-06-19 00:52:46,516  INFO  [cfgD_noise01] Época  11000  loss=1.3261e-04  D=0.07340  rho=1.00364
+2026-06-19 00:53:14,785  INFO  [cfgD_noise01] Época  12000  loss=1.3124e-04  D=0.07417  rho=1.00383
+2026-06-19 00:53:42,064  INFO  [cfgD_noise01] Época  13000  loss=1.3663e-04  D=0.07474  rho=1.00398
+2026-06-19 00:54:10,166  INFO  [cfgD_noise01] Época  14000  loss=1.4144e-04  D=0.07517  rho=1.00312
+2026-06-19 00:54:37,871  INFO  [cfgD_noise01] Época  15000  loss=1.2792e-04  D=0.07551  rho=1.00428
+2026-06-19 00:55:09,306  INFO  [cfgD_noise01] Época  16000  loss=1.2739e-04  D=0.07571  rho=1.00440
+2026-06-19 00:55:37,756  INFO  [cfgD_noise01] Época  17000  loss=1.2671e-04  D=0.07597  rho=1.00452
+2026-06-19 00:56:05,690  INFO  [cfgD_noise01] Época  18000  loss=1.2611e-04  D=0.07618  rho=1.00464
+2026-06-19 00:56:34,089  INFO  [cfgD_noise01] Época  19000  loss=1.3077e-04  D=0.07636  rho=1.00454
+2026-06-19 00:57:01,774  INFO  [cfgD_noise01] Época  20000  loss=1.2656e-04  D=0.07651  rho=1.00472
+2026-06-19 00:57:01,774  INFO  [cfgD_noise01] -- Resultados finales --
+2026-06-19 00:57:01,774  INFO  [cfgD_noise01]  D_true=0.0800  D_est=0.0765  error=4.36%
+2026-06-19 00:57:01,774  INFO  [cfgD_noise01]  rho_true=1.0000  rho_est=1.0047  error=0.47%
+2026-06-19 00:57:01,828  INFO  
+2026-06-19 00:57:01,829  INFO  ------------------------------------------------------------
+2026-06-19 00:57:01,829  INFO  Experimento: cfgD_noise03
+2026-06-19 00:57:01,844  INFO  [cfgD_noise03] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 00:57:01,844  INFO  [cfgD_noise03] D_true=0.0800  rho_true=1.0000
+2026-06-19 00:57:01,887  INFO  [cfgD_noise03] Época      1  loss=6.7924e-01  D=0.10010  rho=0.49950
+2026-06-19 00:57:30,789  INFO  [cfgD_noise03] Época   1000  loss=3.5139e-03  D=0.04167  rho=0.74862
+2026-06-19 00:57:58,187  INFO  [cfgD_noise03] Época   2000  loss=2.2519e-03  D=0.03999  rho=0.92737
+2026-06-19 00:58:26,049  INFO  [cfgD_noise03] Época   3000  loss=1.7272e-03  D=0.04238  rho=0.94429
+2026-06-19 00:58:53,668  INFO  [cfgD_noise03] Época   4000  loss=1.3676e-03  D=0.04758  rho=0.96905
+2026-06-19 00:59:21,156  INFO  [cfgD_noise03] Época   5000  loss=1.1997e-03  D=0.05271  rho=0.98250
+2026-06-19 00:59:49,645  INFO  [cfgD_noise03] Época   6000  loss=1.1578e-03  D=0.05547  rho=0.98597
+2026-06-19 01:00:17,263  INFO  [cfgD_noise03] Época   7000  loss=1.1349e-03  D=0.05831  rho=0.98628
+2026-06-19 01:00:45,509  INFO  [cfgD_noise03] Época   8000  loss=1.1175e-03  D=0.06024  rho=0.98756
+2026-06-19 01:01:14,335  INFO  [cfgD_noise03] Época   9000  loss=1.1073e-03  D=0.06160  rho=0.98763
+2026-06-19 01:01:42,412  INFO  [cfgD_noise03] Época  10000  loss=1.2858e-03  D=0.06251  rho=0.98335
+2026-06-19 01:02:10,739  INFO  [cfgD_noise03] Época  11000  loss=1.0939e-03  D=0.06299  rho=0.98825
+2026-06-19 01:02:37,925  INFO  [cfgD_noise03] Época  12000  loss=1.0878e-03  D=0.06363  rho=0.98861
+2026-06-19 01:03:07,759  INFO  [cfgD_noise03] Época  13000  loss=1.0819e-03  D=0.06420  rho=0.98910
+2026-06-19 01:03:35,583  INFO  [cfgD_noise03] Época  14000  loss=1.0804e-03  D=0.06463  rho=0.98925
+2026-06-19 01:04:03,870  INFO  [cfgD_noise03] Época  15000  loss=1.0725e-03  D=0.06494  rho=0.99026
+2026-06-19 01:04:31,280  INFO  [cfgD_noise03] Época  16000  loss=1.0701e-03  D=0.06510  rho=0.99055
+2026-06-19 01:04:59,204  INFO  [cfgD_noise03] Época  17000  loss=1.0671e-03  D=0.06531  rho=0.99088
+2026-06-19 01:05:31,747  INFO  [cfgD_noise03] Época  18000  loss=1.0640e-03  D=0.06550  rho=0.99116
+2026-06-19 01:05:59,141  INFO  [cfgD_noise03] Época  19000  loss=1.0609e-03  D=0.06569  rho=0.99143
+2026-06-19 01:06:27,702  INFO  [cfgD_noise03] Época  20000  loss=1.0576e-03  D=0.06590  rho=0.99169
+2026-06-19 01:06:27,702  INFO  [cfgD_noise03] -- Resultados finales --
+2026-06-19 01:06:27,702  INFO  [cfgD_noise03]  D_true=0.0800  D_est=0.0659  error=17.63%
+2026-06-19 01:06:27,702  INFO  [cfgD_noise03]  rho_true=1.0000  rho_est=0.9917  error=0.83%
+2026-06-19 01:06:27,729  INFO  
+2026-06-19 01:06:27,729  INFO  ------------------------------------------------------------
+2026-06-19 01:06:27,729  INFO  Experimento: cfgD_noise05
+2026-06-19 01:06:27,739  INFO  [cfgD_noise05] Iniciando entrenamiento — 20000 épocas — cpu
+2026-06-19 01:06:27,739  INFO  [cfgD_noise05] D_true=0.0800  rho_true=1.0000
+2026-06-19 01:06:27,771  INFO  [cfgD_noise05] Época      1  loss=5.2091e-01  D=0.10007  rho=0.49950
+2026-06-19 01:06:55,837  INFO  [cfgD_noise05] Época   1000  loss=5.6699e-03  D=0.04172  rho=0.74915
+2026-06-19 01:07:24,550  INFO  [cfgD_noise05] Época   2000  loss=3.9887e-03  D=0.03542  rho=0.91869
+2026-06-19 01:07:52,155  INFO  [cfgD_noise05] Época   3000  loss=3.3197e-03  D=0.04326  rho=0.92882
+2026-06-19 01:08:19,731  INFO  [cfgD_noise05] Época   4000  loss=2.9920e-03  D=0.05465  rho=0.94597
+2026-06-19 01:08:47,705  INFO  [cfgD_noise05] Época   5000  loss=2.8632e-03  D=0.05898  rho=0.94021
+2026-06-19 01:09:14,809  INFO  [cfgD_noise05] Época   6000  loss=2.7848e-03  D=0.06160  rho=0.96477
+2026-06-19 01:09:43,196  INFO  [cfgD_noise05] Época   7000  loss=2.7330e-03  D=0.06415  rho=0.97040
+2026-06-19 01:10:10,710  INFO  [cfgD_noise05] Época   8000  loss=2.7126e-03  D=0.06620  rho=0.97192
+2026-06-19 01:10:38,571  INFO  [cfgD_noise05] Época   9000  loss=2.6786e-03  D=0.06731  rho=0.97657
+2026-06-19 01:11:06,343  INFO  [cfgD_noise05] Época  10000  loss=2.7118e-03  D=0.06784  rho=0.97438
+2026-06-19 01:11:34,165  INFO  [cfgD_noise05] Época  11000  loss=2.6568e-03  D=0.06812  rho=0.97898
+2026-06-19 01:12:02,705  INFO  [cfgD_noise05] Época  12000  loss=2.6471e-03  D=0.06833  rho=0.97994
+2026-06-19 01:12:31,961  INFO  [cfgD_noise05] Época  13000  loss=2.6377e-03  D=0.06845  rho=0.98098
+2026-06-19 01:13:00,244  INFO  [cfgD_noise05] Época  14000  loss=2.6284e-03  D=0.06841  rho=0.98178
+2026-06-19 01:13:27,742  INFO  [cfgD_noise05] Época  15000  loss=2.6193e-03  D=0.06812  rho=0.98243
+2026-06-19 01:13:55,813  INFO  [cfgD_noise05] Época  16000  loss=2.6130e-03  D=0.06781  rho=0.98266
+2026-06-19 01:14:23,272  INFO  [cfgD_noise05] Época  17000  loss=2.6042e-03  D=0.06728  rho=0.98271
+2026-06-19 01:14:51,039  INFO  [cfgD_noise05] Época  18000  loss=2.5972e-03  D=0.06679  rho=0.98223
+2026-06-19 01:15:24,530  INFO  [cfgD_noise05] Época  19000  loss=2.5821e-03  D=0.06630  rho=0.98133
+2026-06-19 01:15:52,490  INFO  [cfgD_noise05] Época  20000  loss=2.5793e-03  D=0.06541  rho=0.97979
+2026-06-19 01:15:52,490  INFO  [cfgD_noise05] -- Resultados finales --
+2026-06-19 01:15:52,490  INFO  [cfgD_noise05]  D_true=0.0800  D_est=0.0654  error=18.23%
+2026-06-19 01:15:52,490  INFO  [cfgD_noise05]  rho_true=1.0000  rho_est=0.9798  error=2.02%
+2026-06-19 01:15:52,551  INFO  
+Tabla de resultados guardada en: results\resultados.csv
+2026-06-19 01:15:54,067  INFO  
+2026-06-19 01:15:54,067  INFO  =================================================================
+2026-06-19 01:15:54,067  INFO  RESUMEN FINAL
+2026-06-19 01:15:54,067  INFO  =================================================================
+2026-06-19 01:15:54,067  INFO  Experimento                      D_err%   rho_err%
+2026-06-19 01:15:54,067  INFO  --------------------------------------------------
+2026-06-19 01:15:54,067  INFO    cfgA_noise00                    0.19%      0.02%
+2026-06-19 01:15:54,067  INFO    cfgA_noise01                    0.28%      0.58%
+2026-06-19 01:15:54,067  INFO    cfgA_noise03                    7.43%      2.37%
+2026-06-19 01:15:54,067  INFO    cfgA_noise05                   79.76%     15.03%
+2026-06-19 01:15:54,067  INFO    cfgB_noise00                    1.61%      0.25%
+2026-06-19 01:15:54,067  INFO    cfgB_noise01                    4.33%      1.49%
+2026-06-19 01:15:54,067  INFO    cfgB_noise03                   12.10%      1.60%
+2026-06-19 01:15:54,067  INFO    cfgB_noise05                   41.20%      4.07%
+2026-06-19 01:15:54,067  INFO    cfgC_noise00                    1.09%      0.24%
+2026-06-19 01:15:54,067  INFO    cfgC_noise01                    1.92%      0.85%
+2026-06-19 01:15:54,067  INFO    cfgC_noise03                    4.71%      2.37%
+2026-06-19 01:15:54,067  INFO    cfgC_noise05                   15.12%      8.01%
+2026-06-19 01:15:54,067  INFO    cfgD_noise00                    5.03%      0.15%
+2026-06-19 01:15:54,067  INFO    cfgD_noise01                    4.36%      0.47%
+2026-06-19 01:15:54,067  INFO    cfgD_noise03                   17.63%      0.83%
+2026-06-19 01:15:54,067  INFO    cfgD_noise05                   18.23%      2.02%
+2026-06-19 01:15:54,067  INFO  =================================================================

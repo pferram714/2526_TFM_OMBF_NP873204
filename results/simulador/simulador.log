@@ -1,0 +1,191 @@
+2026-06-19 08:42:54,296  INFO  =================================================================
+2026-06-19 08:42:54,296  INFO  Simulador Tumoral — Glioblastoma Multiforme
+2026-06-19 08:42:54,296  INFO  Periodo de simulacion: 90.0 dias
+2026-06-19 08:42:54,296  INFO  Radio critico: 3.0 mm
+2026-06-19 08:42:54,296  INFO  =================================================================
+2026-06-19 08:42:55,618  INFO    Guardado: tabla_resumen_error_vs_ruido.png
+2026-06-19 08:42:55,618  INFO  
+2026-06-19 08:42:55,618  INFO  ------------------------------------------------------------
+2026-06-19 08:42:55,618  INFO  Paciente: cfgA_noise00
+2026-06-19 08:42:55,618  INFO    D_est=0.04991  rho_est=0.20004
+2026-06-19 08:42:55,640  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:42:58,849  INFO    Guardado: cfgA_noise00_forward.png
+2026-06-19 08:42:58,849  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:43:08,865  INFO    Guardado: cfgA_noise00_tratamiento.png
+2026-06-19 08:43:08,865  INFO    Velocidad teorica del frente (Fisher): 0.1998 mm/dia
+2026-06-19 08:43:08,865  INFO    Tiempo hasta r=3.0mm (sin tto): 21.8 dias
+2026-06-19 08:43:08,865  INFO  
+2026-06-19 08:43:08,865  INFO  ------------------------------------------------------------
+2026-06-19 08:43:08,865  INFO  Paciente: cfgA_noise01
+2026-06-19 08:43:08,865  INFO    D_est=0.05014  rho_est=0.19883
+2026-06-19 08:43:08,873  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:43:12,317  INFO    Guardado: cfgA_noise01_forward.png
+2026-06-19 08:43:12,317  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:43:22,763  INFO    Guardado: cfgA_noise01_tratamiento.png
+2026-06-19 08:43:22,763  INFO    Velocidad teorica del frente (Fisher): 0.1997 mm/dia
+2026-06-19 08:43:22,763  INFO    Tiempo hasta r=3.0mm (sin tto): 21.8 dias
+2026-06-19 08:43:22,763  INFO  
+2026-06-19 08:43:22,763  INFO  ------------------------------------------------------------
+2026-06-19 08:43:22,763  INFO  Paciente: cfgA_noise03
+2026-06-19 08:43:22,763  INFO    D_est=0.04628  rho_est=0.19526
+2026-06-19 08:43:22,772  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:43:25,955  INFO    Guardado: cfgA_noise03_forward.png
+2026-06-19 08:43:25,956  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:43:36,794  INFO    Guardado: cfgA_noise03_tratamiento.png
+2026-06-19 08:43:36,794  INFO    Velocidad teorica del frente (Fisher): 0.1901 mm/dia
+2026-06-19 08:43:36,794  INFO    Tiempo hasta r=3.0mm (sin tto): 22.7 dias
+2026-06-19 08:43:36,794  INFO  
+2026-06-19 08:43:36,794  INFO  ------------------------------------------------------------
+2026-06-19 08:43:36,794  INFO  Paciente: cfgA_noise05
+2026-06-19 08:43:36,794  INFO    D_est=0.01012  rho_est=0.16993
+2026-06-19 08:43:36,797  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:43:40,161  INFO    Guardado: cfgA_noise05_forward.png
+2026-06-19 08:43:40,161  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:43:50,387  INFO    Guardado: cfgA_noise05_tratamiento.png
+2026-06-19 08:43:50,387  INFO    Velocidad teorica del frente (Fisher): 0.0829 mm/dia
+2026-06-19 08:43:50,387  INFO    Tiempo hasta r=3.0mm (sin tto): 40.0 dias
+2026-06-19 08:43:50,387  INFO  
+2026-06-19 08:43:50,387  INFO  ------------------------------------------------------------
+2026-06-19 08:43:50,387  INFO  Paciente: cfgB_noise00
+2026-06-19 08:43:50,387  INFO    D_est=0.09839  rho_est=0.49876
+2026-06-19 08:43:50,393  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:43:53,716  INFO    Guardado: cfgB_noise00_forward.png
+2026-06-19 08:43:53,716  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:44:04,512  INFO    Guardado: cfgB_noise00_tratamiento.png
+2026-06-19 08:44:04,512  INFO    Velocidad teorica del frente (Fisher): 0.4430 mm/dia
+2026-06-19 08:44:04,512  INFO    Tiempo hasta r=3.0mm (sin tto): 10.0 dias
+2026-06-19 08:44:04,512  INFO  
+2026-06-19 08:44:04,512  INFO  ------------------------------------------------------------
+2026-06-19 08:44:04,512  INFO  Paciente: cfgB_noise01
+2026-06-19 08:44:04,512  INFO    D_est=0.09567  rho_est=0.49257
+2026-06-19 08:44:04,521  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:44:07,778  INFO    Guardado: cfgB_noise01_forward.png
+2026-06-19 08:44:07,778  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:44:20,059  INFO    Guardado: cfgB_noise01_tratamiento.png
+2026-06-19 08:44:20,059  INFO    Velocidad teorica del frente (Fisher): 0.4342 mm/dia
+2026-06-19 08:44:20,059  INFO    Tiempo hasta r=3.0mm (sin tto): 10.0 dias
+2026-06-19 08:44:20,059  INFO  
+2026-06-19 08:44:20,059  INFO  ------------------------------------------------------------
+2026-06-19 08:44:20,059  INFO  Paciente: cfgB_noise03
+2026-06-19 08:44:20,059  INFO    D_est=0.08790  rho_est=0.49200
+2026-06-19 08:44:20,059  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:44:23,250  INFO    Guardado: cfgB_noise03_forward.png
+2026-06-19 08:44:23,250  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:44:33,623  INFO    Guardado: cfgB_noise03_tratamiento.png
+2026-06-19 08:44:33,623  INFO    Velocidad teorica del frente (Fisher): 0.4159 mm/dia
+2026-06-19 08:44:33,623  INFO    Tiempo hasta r=3.0mm (sin tto): 10.0 dias
+2026-06-19 08:44:33,623  INFO  
+2026-06-19 08:44:33,623  INFO  ------------------------------------------------------------
+2026-06-19 08:44:33,623  INFO  Paciente: cfgB_noise05
+2026-06-19 08:44:33,623  INFO    D_est=0.05880  rho_est=0.47963
+2026-06-19 08:44:33,633  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:44:36,713  INFO    Guardado: cfgB_noise05_forward.png
+2026-06-19 08:44:36,713  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:44:47,460  INFO    Guardado: cfgB_noise05_tratamiento.png
+2026-06-19 08:44:47,460  INFO    Velocidad teorica del frente (Fisher): 0.3359 mm/dia
+2026-06-19 08:44:47,460  INFO    Tiempo hasta r=3.0mm (sin tto): 11.8 dias
+2026-06-19 08:44:47,460  INFO  
+2026-06-19 08:44:47,460  INFO  ------------------------------------------------------------
+2026-06-19 08:44:47,460  INFO  Paciente: cfgC_noise00
+2026-06-19 08:44:47,460  INFO    D_est=0.19782  rho_est=0.29927
+2026-06-19 08:44:47,479  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:44:50,734  INFO    Guardado: cfgC_noise00_forward.png
+2026-06-19 08:44:50,738  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:45:01,092  INFO    Guardado: cfgC_noise00_tratamiento.png
+2026-06-19 08:45:01,092  INFO    Velocidad teorica del frente (Fisher): 0.4866 mm/dia
+2026-06-19 08:45:01,092  INFO    Tiempo hasta r=3.0mm (sin tto): 10.9 dias
+2026-06-19 08:45:01,092  INFO  
+2026-06-19 08:45:01,092  INFO  ------------------------------------------------------------
+2026-06-19 08:45:01,092  INFO  Paciente: cfgC_noise01
+2026-06-19 08:45:01,092  INFO    D_est=0.19616  rho_est=0.29746
+2026-06-19 08:45:01,102  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:45:04,238  INFO    Guardado: cfgC_noise01_forward.png
+2026-06-19 08:45:04,238  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:45:20,198  INFO    Guardado: cfgC_noise01_tratamiento.png
+2026-06-19 08:45:20,198  INFO    Velocidad teorica del frente (Fisher): 0.4831 mm/dia
+2026-06-19 08:45:20,198  INFO    Tiempo hasta r=3.0mm (sin tto): 10.9 dias
+2026-06-19 08:45:20,198  INFO  
+2026-06-19 08:45:20,198  INFO  ------------------------------------------------------------
+2026-06-19 08:45:20,198  INFO  Paciente: cfgC_noise03
+2026-06-19 08:45:20,198  INFO    D_est=0.19058  rho_est=0.29290
+2026-06-19 08:45:20,208  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:45:30,737  INFO    Guardado: cfgC_noise03_forward.png
+2026-06-19 08:45:30,737  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:46:08,192  INFO    Guardado: cfgC_noise03_tratamiento.png
+2026-06-19 08:46:08,192  INFO    Velocidad teorica del frente (Fisher): 0.4725 mm/dia
+2026-06-19 08:46:08,192  INFO    Tiempo hasta r=3.0mm (sin tto): 11.8 dias
+2026-06-19 08:46:08,192  INFO  
+2026-06-19 08:46:08,192  INFO  ------------------------------------------------------------
+2026-06-19 08:46:08,192  INFO  Paciente: cfgC_noise05
+2026-06-19 08:46:08,192  INFO    D_est=0.16975  rho_est=0.27597
+2026-06-19 08:46:08,217  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:46:18,920  INFO    Guardado: cfgC_noise05_forward.png
+2026-06-19 08:46:18,927  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:46:55,455  INFO    Guardado: cfgC_noise05_tratamiento.png
+2026-06-19 08:46:55,455  INFO    Velocidad teorica del frente (Fisher): 0.4329 mm/dia
+2026-06-19 08:46:55,455  INFO    Tiempo hasta r=3.0mm (sin tto): 12.7 dias
+2026-06-19 08:46:55,458  INFO  
+2026-06-19 08:46:55,458  INFO  ------------------------------------------------------------
+2026-06-19 08:46:55,459  INFO  Paciente: cfgD_noise00
+2026-06-19 08:46:55,459  INFO    D_est=0.07597  rho_est=0.99853
+2026-06-19 08:46:55,466  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:47:10,799  INFO    Guardado: cfgD_noise00_forward.png
+2026-06-19 08:47:10,800  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:47:45,797  INFO    Guardado: cfgD_noise00_tratamiento.png
+2026-06-19 08:47:45,797  INFO    Velocidad teorica del frente (Fisher): 0.5509 mm/dia
+2026-06-19 08:47:45,798  INFO    Tiempo hasta r=3.0mm (sin tto): 6.4 dias
+2026-06-19 08:47:45,798  INFO  
+2026-06-19 08:47:45,798  INFO  ------------------------------------------------------------
+2026-06-19 08:47:45,799  INFO  Paciente: cfgD_noise01
+2026-06-19 08:47:45,799  INFO    D_est=0.07651  rho_est=1.00472
+2026-06-19 08:47:45,810  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:47:57,072  INFO    Guardado: cfgD_noise01_forward.png
+2026-06-19 08:47:57,074  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:48:29,572  INFO    Guardado: cfgD_noise01_tratamiento.png
+2026-06-19 08:48:29,572  INFO    Velocidad teorica del frente (Fisher): 0.5545 mm/dia
+2026-06-19 08:48:29,573  INFO    Tiempo hasta r=3.0mm (sin tto): 6.4 dias
+2026-06-19 08:48:29,573  INFO  
+2026-06-19 08:48:29,573  INFO  ------------------------------------------------------------
+2026-06-19 08:48:29,573  INFO  Paciente: cfgD_noise03
+2026-06-19 08:48:29,573  INFO    D_est=0.06590  rho_est=0.99169
+2026-06-19 08:48:29,582  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:48:34,322  INFO    Guardado: cfgD_noise03_forward.png
+2026-06-19 08:48:34,322  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:48:48,822  INFO    Guardado: cfgD_noise03_tratamiento.png
+2026-06-19 08:48:48,822  INFO    Velocidad teorica del frente (Fisher): 0.5113 mm/dia
+2026-06-19 08:48:48,822  INFO    Tiempo hasta r=3.0mm (sin tto): 7.3 dias
+2026-06-19 08:48:48,823  INFO  
+2026-06-19 08:48:48,823  INFO  ------------------------------------------------------------
+2026-06-19 08:48:48,823  INFO  Paciente: cfgD_noise05
+2026-06-19 08:48:48,823  INFO    D_est=0.06541  rho_est=0.97979
+2026-06-19 08:48:48,829  INFO    Simulando 90.0 dias hacia adelante...
+2026-06-19 08:48:53,214  INFO    Guardado: cfgD_noise05_forward.png
+2026-06-19 08:48:53,215  INFO    Simulando escenarios de tratamiento...
+2026-06-19 08:49:07,075  INFO    Guardado: cfgD_noise05_tratamiento.png
+2026-06-19 08:49:07,075  INFO    Velocidad teorica del frente (Fisher): 0.5063 mm/dia
+2026-06-19 08:49:07,075  INFO    Tiempo hasta r=3.0mm (sin tto): 7.3 dias
+2026-06-19 08:49:07,078  INFO  
+Resumen guardado en: results\simulador\simulador_resumen.csv
+2026-06-19 08:49:07,078  INFO  
+2026-06-19 08:49:07,079  INFO  =================================================================
+2026-06-19 08:49:07,079  INFO  RESUMEN DEL SIMULADOR
+2026-06-19 08:49:07,079  INFO  =================================================================
+2026-06-19 08:49:07,079  INFO  Paciente                    v_frente   t_crit(sin)   t_crit(50%)
+2026-06-19 08:49:07,081  INFO  ---------------------------------------------------------------
+2026-06-19 08:49:07,081  INFO    cfgA_noise00               0.1998          21.8          35.5
+2026-06-19 08:49:07,082  INFO    cfgA_noise01               0.1997          21.8          35.5
+2026-06-19 08:49:07,082  INFO    cfgA_noise03               0.1901          22.7          37.3
+2026-06-19 08:49:07,082  INFO    cfgA_noise05               0.0829          40.0          64.5
+2026-06-19 08:49:07,082  INFO    cfgB_noise00               0.4430          10.0          15.5
+2026-06-19 08:49:07,084  INFO    cfgB_noise01               0.4342          10.0          15.5
+2026-06-19 08:49:07,084  INFO    cfgB_noise03               0.4159          10.0          16.4
+2026-06-19 08:49:07,084  INFO    cfgB_noise05               0.3359          11.8          18.2
+2026-06-19 08:49:07,084  INFO    cfgC_noise00               0.4866          10.9          19.1
+2026-06-19 08:49:07,084  INFO    cfgC_noise01               0.4831          10.9          19.1
+2026-06-19 08:49:07,084  INFO    cfgC_noise03               0.4725          11.8          19.1
+2026-06-19 08:49:07,085  INFO    cfgC_noise05               0.4329          12.7          20.9
+2026-06-19 08:49:07,085  INFO    cfgD_noise00               0.5509           6.4          10.9
+2026-06-19 08:49:07,085  INFO    cfgD_noise01               0.5545           6.4          10.0
+2026-06-19 08:49:07,086  INFO    cfgD_noise03               0.5113           7.3          10.9
+2026-06-19 08:49:07,086  INFO    cfgD_noise05               0.5063           7.3          10.9
+2026-06-19 08:49:07,086  INFO  =================================================================

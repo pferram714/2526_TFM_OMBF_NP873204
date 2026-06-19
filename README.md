@@ -42,12 +42,13 @@ TFM_18062026/
 └── results/                           # Resultados del entrenamiento y la simulación
     ├── pinn_training.log              # Log del entrenamiento de la PINN
     ├── resultados.csv                 # Parámetros estimados y errores relativos
+    ├── summary_errors.png             # Visualización gráfica de errores
     ├── *.pt                           # Pesos de los modelos entrenados (PyTorch)
     ├── *.npz                          # Historial de pérdidas por experimento
     └── simulador/                     # Resultado del simulador
         ├── simulador.log              # Log del proceso del simulador
         ├── simulador_resumen.csv      # Resumen de resultados tras la simulación
-        └── *.png                      # Perfiles espaciales y curvas de tratamiento
+        └── *.png                      # Perfiles espaciales y curvas de tratamiento + gráfico resumen de errores
 ```
 
 ---
